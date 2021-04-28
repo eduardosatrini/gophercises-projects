@@ -1,6 +1,6 @@
 ### quiz app
 
-[Gophercises](https://courses.calhoun.io/lessons/les_goph_02)
+
 
 Create a program that will **read in a quiz provided via a CSV file** (more details below) 
 and will then give the quiz to a user keeping track of how many questions they get right 
@@ -13,3 +13,5 @@ but the user should be able to customize the filename via a flag.
 The CSV file will be in a format like below, where the first column 
 is a question and the second column in the same row is the answer 
 to that question.  
+
+[Gophercises](https://courses.calhoun.io/lessons/les_goph_02)
